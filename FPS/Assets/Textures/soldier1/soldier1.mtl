@@ -1,0 +1,104 @@
+# Exported from Fuse 2017.1.0
+
+newmtl Glove
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d soldier1_Glove_Opacity.png
+map_Kd soldier1_Glove_Diffuse.png
+adobe_map_normal soldier1_Glove_Normal.png
+map_Ks soldier1_Glove_Specular.png
+adobe_map_shininess soldier1_Glove_Gloss.png
+
+newmtl Bottom
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d soldier1_Bottom_Opacity.png
+map_Kd soldier1_Bottom_Diffuse.png
+adobe_map_normal soldier1_Bottom_Normal.png
+map_Ks soldier1_Bottom_Specular.png
+adobe_map_shininess soldier1_Bottom_Gloss.png
+
+newmtl Shoes
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d soldier1_Shoes_Opacity.png
+map_Kd soldier1_Shoes_Diffuse.png
+adobe_map_normal soldier1_Shoes_Normal.png
+map_Ks soldier1_Shoes_Specular.png
+adobe_map_shininess soldier1_Shoes_Gloss.png
+
+newmtl Hair
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d soldier1_Hair_Opacity.png
+map_Kd soldier1_Hair_Diffuse.png
+adobe_map_normal soldier1_Hair_Normal.png
+map_Ks soldier1_Hair_Specular.png
+adobe_map_shininess soldier1_Hair_Gloss.png
+
+newmtl Top
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d soldier1_Top_Opacity.png
+map_Kd soldier1_Top_Diffuse.png
+adobe_map_normal soldier1_Top_Normal.png
+map_Ks soldier1_Top_Specular.png
+adobe_map_shininess soldier1_Top_Gloss.png
+
+newmtl Body
+illum 4 
+Kd 1.00 1.00 1.00 
+Tf 1.00 1.00 1.00 
+Ni 1.00 
+Ks 1.00 1.00 1.00 
+Ns 512 
+adobe_reflectivity 0.04 
+adobe_bump_strength 0.0 
+d 1.0 
+
+map_d soldier1_Body_Opacity.png
+map_Kd soldier1_Body_Diffuse.png
+adobe_map_normal soldier1_Body_Normal.png
+map_Ks soldier1_Body_Specular.png
+adobe_map_shininess soldier1_Body_Gloss.png
+
